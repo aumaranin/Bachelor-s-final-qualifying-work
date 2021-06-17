@@ -1,0 +1,9 @@
+/debug
+/release
+.qmake.stash
+diplom2.pro.user
+log.txt
+Makefile
+Makefile.Debug
+Makefile.Release
+
